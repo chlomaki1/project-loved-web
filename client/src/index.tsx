@@ -65,19 +65,19 @@ function Root() {
               commit: process.env.GIT_COMMIT?.slice(0, 7) || 'master',
               commitLink: (c: ReactNode) => (
                 <a
-                  href={`https://github.com/cl8n/project-loved-web/tree/${process.env.GIT_COMMIT || 'master'}`}
+                  href={`https://github.com/chlomaki1/project-loved-web/tree/${process.env.GIT_COMMIT || 'master'}`}
                 >
                   {c}
                 </a>
               ),
-              link: (c: ReactNode) => <a href='https://github.com/cl8n/project-loved-web'>{c}</a>,
+              link: (c: ReactNode) => <a href='https://github.com/chlomaki1/project-loved-web'>{c}</a>,
               timestamp: process.env.GIT_COMMIT_TIMESTAMP
                 ? new Date(Number.parseInt(process.env.GIT_COMMIT_TIMESTAMP) * 1000)
                 : new Date(),
             }}
           />
           {' | '}
-          <a href='https://github.com/cl8n/project-loved-web/issues'>
+          <a href='https://github.com/chlomaki1/project-loved-web/issues'>
             <FormattedMessage
               defaultMessage='Issue tracker'
               description='[Footer] Link to GitHub issues'

@@ -19,7 +19,7 @@ export default function Header() {
         <li>Click "Export messages". A download containing your translations will start.</li>
         <li>
           If you're comfortable using git and GitHub, commit the file to a fork of{' '}
-          <a href='https://github.com/cl8n/project-loved-web'>project-loved-web</a> at{' '}
+          <a href='https://github.com/chlomaki1/project-loved-web'>project-loved-web</a> at{' '}
           <code>client/src/translations/[locale].json</code>, and open a pull request. If not, send
           the file to a developer or one of the public channels.
         </li>
