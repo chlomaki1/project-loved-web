@@ -11,8 +11,14 @@
   "+d4ZcX": {
     "defaultMessage": "モデレーター"
   },
+  "+k3/DW": {
+    "defaultMessage": "とても低い"
+  },
   "+u3TIj": {
     "defaultMessage": "レート"
+  },
+  "/+1H0p": {
+    "defaultMessage": "(プレイリストマネージャー)"
   },
   "/5qic6": {
     "defaultMessage": "理由/注釈"
@@ -32,8 +38,14 @@
   "06WpMi": {
     "defaultMessage": "Ranked"
   },
+  "07J8la": {
+    "defaultMessage": "レビューを投稿するには<a>ログイン</a>が必要です。"
+  },
   "0Vz3c/": {
     "defaultMessage": "支持率と総票数"
+  },
+  "17h0tS": {
+    "defaultMessage": "ここにタイトルやアーティスト名、マッパー名を入力して検索します。"
   },
   "2SX61V": {
     "defaultMessage": "理由/注釈"
@@ -44,14 +56,14 @@
   "2dOoEc": {
     "defaultMessage": "メタデータレビュアー"
   },
+  "31rEte": {
+    "defaultMessage": "回答者:"
+  },
   "34q5Z7": {
     "defaultMessage": "更新"
   },
   "38JPtF": {
     "defaultMessage": "投票中"
-  },
-  "39zfVl": {
-    "defaultMessage": "少し支持"
   },
   "3E4vRf": {
     "defaultMessage": "低"
@@ -119,8 +131,8 @@
   "BGA5hC": {
     "defaultMessage": "開発者"
   },
-  "BSKWqB": {
-    "defaultMessage": "チーム"
+  "Bc30qK": {
+    "defaultMessage": "ランク"
   },
   "Be0kKF": {
     "defaultMessage": "提出した譜面は必ずLovedされるわけではありません。現在Lovedできる譜面の割合は限られていて、あなたが提出した譜面より優れた譜面が継続的に選ばれる可能性があります。"
@@ -137,14 +149,26 @@
   "CIAu6S": {
     "defaultMessage": "Wiki"
   },
+  "Cg4Je8": {
+    "defaultMessage": "中立"
+  },
   "CxsxoI": {
     "defaultMessage": "提出中..."
+  },
+  "CyTIOY": {
+    "defaultMessage": "Issue tracker"
+  },
+  "D5XOyR": {
+    "defaultMessage": "反対"
   },
   "Do+EPJ": {
     "defaultMessage": "{user}は{timestamp, date, long}に{score}でレビューしました"
   },
-  "EqGiDp": {
-    "defaultMessage": "この提出フォームに書いたことは公開されるので、他の人に見られたくないことは書かないでください。理由欄は不要な場合記入しなくても大丈夫です。"
+  "E7ffvt": {
+    "defaultMessage": "とても賛成"
+  },
+  "EquHIj": {
+    "defaultMessage": "利用可能なフィルター:"
   },
   "F1tQfW": {
     "defaultMessage": "タイトル"
@@ -154,6 +178,9 @@
   },
   "G1mG5h": {
     "defaultMessage": "この譜面の投稿者は、この譜面をLovedにさせないようにしています。"
+  },
+  "H+WN2F": {
+    "defaultMessage": "反対"
   },
   "H65rvb": {
     "defaultMessage": "このページを見ているあなたは非常に残念です。"
@@ -173,14 +200,20 @@
   "IWPQ9l": {
     "defaultMessage": "オプションを選択"
   },
-  "IiYTWb": {
-    "defaultMessage": "現在のチーム"
+  "IhLq/K": {
+    "defaultMessage": "メンバー"
   },
   "Ipzb3R": {
     "defaultMessage": "Lovedできない"
   },
   "IuLFa/": {
     "defaultMessage": "レビュー済み"
+  },
+  "J0oKMn": {
+    "defaultMessage": "プレイヤー"
+  },
+  "JFDpsO": {
+    "defaultMessage": "このフォームに記載したことは公開されますので、他人に見られたくないことは記載しないでください。"
   },
   "JHNIy2": {
     "defaultMessage": "並び替え:"
@@ -200,8 +233,8 @@
   "LBBZpt": {
     "defaultMessage": "ゲームモード"
   },
-  "Ll1LUO": {
-    "defaultMessage": "強く支持"
+  "LOTPO2": {
+    "defaultMessage": "{count,plural,one{# guest} other{# guests}}"
   },
   "Lm++cZ": {
     "defaultMessage": "Project Loved"
@@ -218,11 +251,17 @@
   "MXeEOs": {
     "defaultMessage": "レビューしていない"
   },
+  "Mo+8Ww": {
+    "defaultMessage": "アカウントの作成時間"
+  },
   "MoR8Of": {
     "defaultMessage": "マッパーリスト"
   },
   "N4xf2i": {
     "defaultMessage": "お気に入り数"
+  },
+  "N5wtAR": {
+    "defaultMessage": "Nobody"
   },
   "N72lge": {
     "defaultMessage": "データ出力"
@@ -230,8 +269,14 @@
   "NG8X9U": {
     "defaultMessage": "準備中"
   },
+  "Nee/tG": {
+    "defaultMessage": "賛成"
+  },
   "NjIKQe": {
     "defaultMessage": "音信不通"
+  },
+  "OZm2HC": {
+    "defaultMessage": "このマップをLovedするにあたり、あなたはどのくらいサポートしますか？"
   },
   "OcsUKU": {
     "defaultMessage": "自分のレビュー状態:"
@@ -239,11 +284,8 @@
   "Oep6va": {
     "defaultMessage": "提出"
   },
-  "PCZJkZ": {
-    "defaultMessage": "ソースコード"
-  },
-  "PpxIZP": {
-    "defaultMessage": "強く反対"
+  "PHaXeh": {
+    "defaultMessage": "削除済み"
   },
   "PuVvCo": {
     "defaultMessage": "キー数"
@@ -263,8 +305,8 @@
   "SNqK4E": {
     "defaultMessage": "ビートマップセット"
   },
-  "ScBgfg": {
-    "defaultMessage": "どちらでもない"
+  "SonGuK": {
+    "defaultMessage": "より多くのフィルターと照合するために比較を含めることが出来ます。例えば、{comparison}は100以上のお気に入りを持つマップにフィルターをかけます。"
   },
   "Sti+Y3": {
     "defaultMessage": "譜面を提出したあと<submissionsLink>提出リスト</submissionsLink>からステータスを確認できます。"
@@ -275,14 +317,8 @@
   "Tf7XH9": {
     "defaultMessage": "理由/注釈"
   },
-  "TqI9fE": {
-    "defaultMessage": "管理者:"
-  },
   "TrDD+Y": {
     "defaultMessage": "フォームを入力するには<a>ログイン</a>する必要があります。"
-  },
-  "U1fcdw": {
-    "defaultMessage": "ニュース 編集/マネージャー"
   },
   "UjLvid": {
     "defaultMessage": "広げる"
@@ -311,17 +347,17 @@
   "WLJwOC": {
     "defaultMessage": "チームwikiページ"
   },
-  "WXZA2u": {
-    "defaultMessage": "Project Lovedの何でもありなチャンネル(あまり活発に活動していなくほとんどチェックされてない)"
-  },
-  "WjsRpS": {
-    "defaultMessage": "この譜面はあまりにも短すぎます(30秒未満です)"
+  "WlIgyS": {
+    "defaultMessage": "このマップをLovedすべき理由は何ですか？"
   },
   "XiH1Li": {
     "defaultMessage": "({channel})"
   },
-  "Y620ue": {
-    "defaultMessage": "すべて"
+  "YhVhtI": {
+    "defaultMessage": "このマップのお気に入りが少なすぎます。"
+  },
+  "YwyLYn": {
+    "defaultMessage": "Online users: {users}"
   },
   "YzUPhx": {
     "defaultMessage": "{gameMode}のProject Lovedサーバー"
@@ -338,23 +374,29 @@
   "Ze8fJ0": {
     "defaultMessage": "スコアを選択"
   },
+  "a+Pjuq": {
+    "defaultMessage": "このハイブリットマップセットのプレイカウントは正確ではない可能性があります。osu!はマップが更新されるたびに各難易度のプレイカウントがリセットされます。"
+  },
   "a/VT/Q": {
     "defaultMessage": "Project Lovedに関する情報"
   },
   "aHJR9F": {
     "defaultMessage": "同意しているか"
   },
+  "aJnlND": {
+    "defaultMessage": "同意:"
+  },
   "aXImqo": {
     "defaultMessage": "レビューを編集"
   },
-  "bKfIQC": {
-    "defaultMessage": "この譜面をLovedにしたい理由<fade>(任意)</fade>"
+  "b+dt2h": {
+    "defaultMessage": "中立"
   },
   "bcLpeC": {
     "defaultMessage": "一般的でない"
   },
-  "c/0N4+": {
-    "defaultMessage": "拒否"
+  "c/1pjl": {
+    "defaultMessage": "比較"
   },
   "c2UCNp": {
     "defaultMessage": "支持率"
@@ -365,6 +407,9 @@
   "ccf+6T": {
     "defaultMessage": "{gameMode}キャプテン"
   },
+  "cqesZu": {
+    "defaultMessage": "このマップセットの長さが短すぎます。(20秒未満)"
+  },
   "cwgho6": {
     "defaultMessage": "保留"
   },
@@ -374,8 +419,11 @@
   "dv53Wk": {
     "defaultMessage": "このサイトを翻訳するためのツール"
   },
-  "e6WZri": {
-    "defaultMessage": "支持"
+  "e4W5JZ": {
+    "defaultMessage": "新しいレビュー"
+  },
+  "e8DnW1": {
+    "defaultMessage": "現在のメンバー"
   },
   "eJYnVj": {
     "defaultMessage": "その他"
@@ -385,6 +433,9 @@
   },
   "gLG6dL": {
     "defaultMessage": "提出済み譜面リスト"
+  },
+  "gWofsq": {
+    "defaultMessage": "なし"
   },
   "gvLZL5": {
     "defaultMessage": "ログアウト"
@@ -398,6 +449,12 @@
   "iy6RR2": {
     "defaultMessage": "レビューを削除"
   },
+  "jDhZmT": {
+    "defaultMessage": "古いレビュー"
+  },
+  "jFMfk8": {
+    "defaultMessage": "レビュー時のステータス"
+  },
   "jVP2nx": {
     "defaultMessage": "マッパーがBANされています"
   },
@@ -407,17 +464,20 @@
   "jlqkv1": {
     "defaultMessage": "ノミネート済み"
   },
+  "jsh/WS": {
+    "defaultMessage": "<link>ソースコード</link> (<commitLink>{commit}, {timestamp, date, short}</commitLink>)"
+  },
   "kr2W+L": {
     "defaultMessage": "<p>このフォームは<teamLink>キャプテン</teamLink>が毎月のLoved投票にどの譜面を推薦するかを決定するのを手助けします。譜面がすでに<submissionsLink>提出リスト</submissionsLink>にある場合でも譜面に対する考えを追加できます。</p> <p>提出するにあたり以下の項目に注意してください:</p>"
+  },
+  "ks9SWH": {
+    "defaultMessage": "ニュースエディター"
   },
   "l39agD": {
     "defaultMessage": "ステータス"
   },
   "lMSjPi": {
     "defaultMessage": "このページはまだご利用になれません。後でチェックしてみてください！"
-  },
-  "lRk8DP": {
-    "defaultMessage": "少し反対"
   },
   "lULo+e": {
     "defaultMessage": "投票で不採用"
@@ -437,14 +497,14 @@
   "mhVjD+": {
     "defaultMessage": "国旗アイコン: {author}"
   },
+  "mppDtU": {
+    "defaultMessage": "ビートマップパッカー"
+  },
   "mucI2W": {
     "defaultMessage": "スコアは次の計算式によって決まります: {definition}"
   },
-  "nDOSA5": {
-    "defaultMessage": "すべて"
-  },
-  "necy1Q": {
-    "defaultMessage": "このリストにはこのサイトから提出された譜面のみ含まれています。旧Googleスプレッドシートからの提出は近日中にこのサイトに移動し、その後シートは廃止される予定です。"
+  "nUQEC7": {
+    "defaultMessage": "とても反対"
   },
   "nkWBfH": {
     "defaultMessage": "Project Lovedのメンテナンスと方向性を決めるために審議されるチャンネル"
@@ -479,6 +539,9 @@
   "pvfxi+": {
     "defaultMessage": "譜面リスト"
   },
+  "qROhFe": {
+    "defaultMessage": "賛成"
+  },
   "qYCjeT": {
     "defaultMessage": "Loved"
   },
@@ -500,11 +563,11 @@
   "tCV6dl": {
     "defaultMessage": "言語: {selector}"
   },
+  "toLR7w": {
+    "defaultMessage": "アンケート結果"
+  },
   "u/O22d": {
     "defaultMessage": "{user}を編集"
-  },
-  "uNpYlX": {
-    "defaultMessage": "不採用"
   },
   "uizAlD": {
     "defaultMessage": "フォーラム"
@@ -517,6 +580,9 @@
   },
   "uwBono": {
     "defaultMessage": "{hasTimestamp,select,true{{user}が{timestamp, date, long}にこの譜面を提出しました} other{{user}がこの譜面を提出しました}}"
+  },
+  "v4yo/q": {
+    "defaultMessage": "利用可能な演算子:"
   },
   "v96otU": {
     "defaultMessage": "ライト"
@@ -533,6 +599,9 @@
   "wOZypU": {
     "defaultMessage": "Alumni"
   },
+  "xJhR0t": {
+    "defaultMessage": "全て"
+  },
   "xR9DcO": {
     "defaultMessage": "追加中..."
   },
@@ -542,14 +611,14 @@
   "xv9aUB": {
     "defaultMessage": "賛成か反対"
   },
-  "y+BE4P": {
-    "defaultMessage": "すべて"
-  },
   "yQeX5q": {
     "defaultMessage": "テーマ: {selector}"
   },
   "zSxa2k": {
     "defaultMessage": "この譜面は{roundName}にノミネートされています。"
+  },
+  "zgiklH": {
+    "defaultMessage": "マッパー"
   },
   "zn6DBN": {
     "defaultMessage": "ソート:"

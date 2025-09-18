@@ -11,6 +11,9 @@
   "+d4ZcX": {
     "defaultMessage": "Moderadores"
   },
+  "+k3/DW": {
+    "defaultMessage": "Muy bajo"
+  },
   "+u3TIj": {
     "defaultMessage": "Valoración"
   },
@@ -37,6 +40,9 @@
   },
   "0Vz3c/": {
     "defaultMessage": "Porcentaje y total"
+  },
+  "17h0tS": {
+    "defaultMessage": "Al escribir en este campo se buscará por título, artista, y creador."
   },
   "2SX61V": {
     "defaultMessage": "Notas"
@@ -92,6 +98,9 @@
   "6iCh6Z": {
     "defaultMessage": "Editar mi consentimiento"
   },
+  "79PWH2": {
+    "defaultMessage": "Gestor de playlist"
+  },
   "7CJMwD": {
     "defaultMessage": "Prioridad"
   },
@@ -146,17 +155,23 @@
   "CxsxoI": {
     "defaultMessage": "Enviando..."
   },
+  "CyTIOY": {
+    "defaultMessage": "Seguimiento de propuestas"
+  },
+  "D5XOyR": {
+    "defaultMessage": "Negativo"
+  },
   "Do+EPJ": {
     "defaultMessage": "{user} lo reseñó con {score} puntos el {timestamp, date, long}"
   },
   "E7ffvt": {
-    "defaultMessage": "apoyo fuerte"
+    "defaultMessage": "fuerte apoyo"
+  },
+  "EquHIj": {
+    "defaultMessage": "Operadores disponibles:"
   },
   "F1tQfW": {
     "defaultMessage": "Título"
-  },
-  "FALILK": {
-    "defaultMessage": "Actual"
   },
   "FVFRKC": {
     "defaultMessage": "Página de la wiki"
@@ -218,6 +233,9 @@
   "LBBZpt": {
     "defaultMessage": "Modo de juego"
   },
+  "LOTPO2": {
+    "defaultMessage": "{count,plural,one{# invitado} other{# invitados}}"
+  },
   "Lm++cZ": {
     "defaultMessage": "Project Loved"
   },
@@ -242,6 +260,9 @@
   "N4xf2i": {
     "defaultMessage": "Favs"
   },
+  "N5wtAR": {
+    "defaultMessage": "Nadie"
+  },
   "N72lge": {
     "defaultMessage": "Exportaciones de datos"
   },
@@ -263,9 +284,6 @@
   "Oep6va": {
     "defaultMessage": "Enviar"
   },
-  "PCZJkZ": {
-    "defaultMessage": "Código fuente y seguimiento de problemas"
-  },
   "PHaXeh": {
     "defaultMessage": "Borrado"
   },
@@ -286,6 +304,9 @@
   },
   "SNqK4E": {
     "defaultMessage": "Beatmapsets"
+  },
+  "SonGuK": {
+    "defaultMessage": "Se pueden incluir comparaciones para asociar con más propiedades. Por ejemplo, {comparison} filtrará los mapas con más de 100 favoritos."
   },
   "Sti+Y3": {
     "defaultMessage": "Después de enviar un mapa, puedes comprobar su estado en <submissionsLink>la página \"Envíos\"</submissionsLink>"
@@ -326,9 +347,6 @@
   "WLJwOC": {
     "defaultMessage": "Página de la wiki del equipo"
   },
-  "WXZA2u": {
-    "defaultMessage": "Canal todo vale sobre Project Loved; no muy activo y rara vez controlado"
-  },
   "WlIgyS": {
     "defaultMessage": "¿Por qué quieres que este mapa sea Amado?"
   },
@@ -337,6 +355,9 @@
   },
   "YhVhtI": {
     "defaultMessage": "El mapa tiene muy pocos favoritos."
+  },
+  "YwyLYn": {
+    "defaultMessage": "Usuarios en linea: {users}"
   },
   "YzUPhx": {
     "defaultMessage": "Servidor general para el Project Loved de {gameMode}"
@@ -353,6 +374,9 @@
   "Ze8fJ0": {
     "defaultMessage": "Selecciona una puntuación"
   },
+  "a+Pjuq": {
+    "defaultMessage": "El número de jugadas de este mapset híbrido puede no ser preciso. osu! reinicia el número de jugadas de cada dificultad cada vez que un mapa es actualizado."
+  },
   "a/VT/Q": {
     "defaultMessage": "Información general sobre Project Loved"
   },
@@ -364,6 +388,9 @@
   },
   "aXImqo": {
     "defaultMessage": "Editar revisión"
+  },
+  "b+dt2h": {
+    "defaultMessage": "Neutral"
   },
   "bcLpeC": {
     "defaultMessage": "Poco común"
@@ -395,6 +422,9 @@
   "e4W5JZ": {
     "defaultMessage": "Última revisión"
   },
+  "e8DnW1": {
+    "defaultMessage": "Actuales contribuyentes"
+  },
   "eJYnVj": {
     "defaultMessage": "Más"
   },
@@ -422,6 +452,9 @@
   "jDhZmT": {
     "defaultMessage": "Primera revisión"
   },
+  "jFMfk8": {
+    "defaultMessage": "Revisado con puntaje"
+  },
   "jVP2nx": {
     "defaultMessage": "El anfitrión del mapset está baneado."
   },
@@ -431,8 +464,11 @@
   "jlqkv1": {
     "defaultMessage": "Nominado"
   },
+  "jsh/WS": {
+    "defaultMessage": "<link>Código fuente</link> (<commitLink>{commit}, {timestamp, date, short}</commitLink>)"
+  },
   "kr2W+L": {
-    "defaultMessage": "<p>Llenar este formulario ayuda a los <teamLink>capitanes</teamLink> a decidir que mapas nominar para Amados en las encuestas mensuales. Incluso si ya se ha <submissionsLink>enviado</submissionsLink>un mapa, puedes agregar tus opiniones sobre el mapa aquí.</p> <p>Algunas cosas para tener en mente:</p>"
+    "defaultMessage": "<p>Llenar este formulario ayuda a los <teamLink>capitanes</teamLink> a decidir qué mapas nominar para Amados en las encuestas mensuales. Incluso si ya se ha <submissionsLink>enviado</submissionsLink>un mapa, puedes agregar tus opiniones sobre el mapa aquí.</p> <p>Algunas cosas para tener en mente:</p>"
   },
   "ks9SWH": {
     "defaultMessage": "Editores de noticias"
@@ -461,11 +497,11 @@
   "mhVjD+": {
     "defaultMessage": "Iconos de banderas hechos por {author}"
   },
+  "mppDtU": {
+    "defaultMessage": "Empacadores de Beatmaps"
+  },
   "mucI2W": {
     "defaultMessage": "Un método de marcador de posición para ordenar esta lista. {definition}"
-  },
-  "nAQn+f": {
-    "defaultMessage": "¡Haz clic aquí para votar en la ronda de {roundName}!"
   },
   "nUQEC7": {
     "defaultMessage": "fuerte oposición"
@@ -474,7 +510,7 @@
     "defaultMessage": "Principal canal de discusión para el mantenimiento y dirección del Project Loved"
   },
   "nn9fFb": {
-    "defaultMessage": "PPM"
+    "defaultMessage": "BPM"
   },
   "nvvuiw": {
     "defaultMessage": "Editores de vídeo"
@@ -492,7 +528,7 @@
     "defaultMessage": "No"
   },
   "pNwB5k": {
-    "defaultMessage": "Nuevo!"
+    "defaultMessage": "¡Nuevo!"
   },
   "pXOU6C": {
     "defaultMessage": "No hay nada aquí =("
@@ -502,6 +538,9 @@
   },
   "pvfxi+": {
     "defaultMessage": "Envíos"
+  },
+  "qROhFe": {
+    "defaultMessage": "Positivo"
   },
   "qYCjeT": {
     "defaultMessage": "Amado"
@@ -519,7 +558,7 @@
     "defaultMessage": "{user} marcado como <score>no permitido</score> el {timestamp, date, long}"
   },
   "sG6ons": {
-    "defaultMessage": "Lista de amados"
+    "defaultMessage": "Lista de Amados"
   },
   "tCV6dl": {
     "defaultMessage": "Idioma: {selector}"
@@ -529,9 +568,6 @@
   },
   "u/O22d": {
     "defaultMessage": "Editando a {user}"
-  },
-  "uNpYlX": {
-    "defaultMessage": "Rechazado"
   },
   "uizAlD": {
     "defaultMessage": "Foro"
@@ -544,6 +580,9 @@
   },
   "uwBono": {
     "defaultMessage": "{hasTimestamp,select,true{{user} envió este mapa el {timestamp, date, long}} other{{user} envió este mapa}}"
+  },
+  "v4yo/q": {
+    "defaultMessage": "Propiedades disponibles:"
   },
   "v96otU": {
     "defaultMessage": "Claro"
