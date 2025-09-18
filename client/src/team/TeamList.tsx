@@ -32,8 +32,8 @@ const messages = defineMessages({
     description: '[Team] Team listing title',
   },
   playlist: {
-    defaultMessage: '(playlist manager)',
-    description: '[Team] Team listing title, suffix for huu',
+    defaultMessage: 'Playlist manager',
+    description: '[Team] Team listing title',
   },
   video: {
     defaultMessage: 'Video editors',
@@ -107,7 +107,7 @@ export default function TeamList({ current, teamApi }: TeamListProps) {
         <UserList
           title={
             <>
-              huu <span style={{ fontSize: '0.5em' }}>{intl.formatMessage(messages.playlist)}</span>
+              {intl.formatMessage(messages.playlist)}
             </>
           }
           users={[
@@ -117,6 +117,13 @@ export default function TeamList({ current, teamApi }: TeamListProps) {
               banned: false,
               country: 'LT',
               name: 'huu',
+            },
+            {
+              id: 11354436,
+              avatar_url: '',
+              banned: false,
+              country: 'US',
+              name: 'Utiba',
             },
           ]}
         />
