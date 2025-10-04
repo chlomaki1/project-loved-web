@@ -17,9 +17,6 @@
   "+u3TIj": {
     "defaultMessage": "レート"
   },
-  "/+1H0p": {
-    "defaultMessage": "(プレイリストマネージャー)"
-  },
   "/5qic6": {
     "defaultMessage": "理由/注釈"
   },
@@ -100,6 +97,9 @@
   },
   "6iCh6Z": {
     "defaultMessage": "自分の情報を編集"
+  },
+  "79PWH2": {
+    "defaultMessage": "プレイリストマネージャー"
   },
   "7CJMwD": {
     "defaultMessage": "優先度"
@@ -192,7 +192,7 @@
     "defaultMessage": "ピック"
   },
   "HvpI7B": {
-    "defaultMessage": "消された譜面セット"
+    "defaultMessage": "削除されたマップセット"
   },
   "IO8Ye2": {
     "defaultMessage": "スコア"
@@ -321,7 +321,7 @@
     "defaultMessage": "フォームを入力するには<a>ログイン</a>する必要があります。"
   },
   "UjLvid": {
-    "defaultMessage": "広げる"
+    "defaultMessage": "展開する"
   },
   "UxNmCh": {
     "defaultMessage": "中"
@@ -456,7 +456,7 @@
     "defaultMessage": "レビュー時のステータス"
   },
   "jVP2nx": {
-    "defaultMessage": "マッパーがBANされています"
+    "defaultMessage": "マッパーがBANされています。"
   },
   "jlkqJz": {
     "defaultMessage": "管理"
